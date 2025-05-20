@@ -41,7 +41,7 @@ Visit the live site here:
 - Optimized for all modern browsers
 
   ## Screenshots
-  ![image](https://github.com/user-attachments/assets/df7d1c36-d826-42b2-a2a2-5067e12ee912)\
+  ![image](https://github.com/user-attachments/assets/df7d1c36-d826-42b2-a2a2-5067e12ee912)
 
   ![image](https://github.com/user-attachments/assets/de0a0c4e-ecbf-4aab-9179-16e26a50999b)
 
