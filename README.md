@@ -2,6 +2,12 @@
 
 Gourmet Haven is a responsive and interactive restaurant landing page built using HTML, CSS, and JavaScript. It includes a modern design, animated sections, image slider, gallery lightbox, reservation modal, form validation, and scroll-triggered animations. This project is fully functional without any external JavaScript libraries or frameworks.
 
+## 🌐 Live Demo
+
+Visit the live site here:  
+👉 [Gourmet Haven – Restaurant Web Page](https://preethi-hatui.github.io/Gourmet-Haven-Restaurant-Web-Page/)
+
+
 ## Features
 
 - Responsive layout for desktop, tablet, and mobile
